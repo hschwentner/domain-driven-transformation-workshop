@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Workshop design artifacts (kept on disk, not tracked)
+/domain-stories/
+/class-diagrams/
+/refactoring-plan-bounded-context-extraction.md
