@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- created with diagram-js / http://bpmn.io -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color:white" width="1354" height="634" viewBox="-277 213 1369 649" version="1.1"><defs><marker id="activity-black-black-97xwkzyro36lg7fo9ywapsad6" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="fill: black; stroke-width: 1px; stroke-linecap: round; stroke-dasharray: 10000, 1; stroke: black;"/></marker></defs><g class="djs-group"><g class="djs-element djs-shape" style = "display:block" transform="translate(-272 243)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 30; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="8" y="10" font-size="30">Private Banking, coarse-grained</tspan></text></g></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_7457" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M242,559L398,482"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="334.6215876784316" y="531.1215876784315">opens</tspan></text><path d="
+      M 262 547.3242338091509
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="258" y="551.3242338091509">2</tspan></text></g><path d="M242,559L398,482" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="237" y="477" rx="4" width="166" height="87" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_1146" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M476,475L675,535"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="582.2964091564361" y="496.86427277095737">with</tspan></text></g><path d="M476,475L675,535" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="471" y="470" rx="4" width="209" height="70" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_4556" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M214,620L214,767"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="228" y="693.5">request</tspan></text><path d="
+      M 214 640
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="210" y="644">9</tspan></text></g><path d="M214,620L214,767" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="209" y="615" rx="4" width="10" height="157" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_3562" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M257,805L797,805L726,586"/></g><path d="M257,805L797,805L726,586" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="252" y="581" rx="4" width="550" height="229" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_7642" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M176,547L82,484"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="144.8794721153843" y="509.2589442307686">deposits</tspan></text><path d="
+      M 156 531.9642230769257
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="152" y="535.9642230769257">6</tspan></text></g><path d="M176,547L82,484" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="77" y="479" rx="4" width="104" height="73" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_9379" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M13,463L-49,463"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="-34.2" y="478">into</tspan></text></g><path d="M13,463L-49,463" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-54" y="458" rx="4" width="72" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_5151" transform="translate(675 509)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="24.4892578125" y="75">bank</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_5571" transform="translate(176 767)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="26.15625" y="74.75">loan</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_6251" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M176,576L80,584"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="142.2646467605959" y="593.4121194364246">withdraws</tspan></text><path d="
+      M 156 573.646467605959
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="152" y="577.646467605959">7</tspan></text></g><path d="M176,576L80,584" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="75" y="571" rx="4" width="106" height="18" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_7220" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M3,587L-49,587"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="-39.2" y="602">from</tspan></text></g><path d="M3,587L-49,587" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-54" y="582" rx="4" width="62" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_4976" transform="translate(13 425)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15 18.5c-2.51 0-4.68-1.42-5.76-3.5H15v-2H8.58c-.05-.33-.08-.66-.08-1s.03-.67.08-1H15V9H9.24C10.32 6.92 12.5 5.5 15 5.5c1.61 0 3.09.59 4.23 1.57L21 5.3C19.41 3.87 17.3 3 15 3c-3.92 0-7.24 2.51-8.48 6H3v2h3.06c-.04.33-.06.66-.06 1s.02.67.06 1H3v2h3.52c1.24 3.49 4.56 6 8.48 6 2.31 0 4.41-.87 6-2.3l-1.78-1.77c-1.13.98-2.6 1.57-4.22 1.57z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="19.4912109375" y="74.75">money</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_7894" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M675,572L473,602"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="588.4693070693282" y="599.1841575840306">issues</tspan></text><path d="
+      M 655 571.6930706932825
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="651" y="575.6930706932825">5</tspan></text></g><path d="M675,572L473,602" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="468" y="567" rx="4" width="212" height="40" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_6926" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M398,602L260,579"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="343.52568456711253" y="581.5513691342251">to</tspan></text></g><path d="M398,602L260,579" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="255" y="574" rx="4" width="148" height="33" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_3207" transform="translate(3 549)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15 18.5c-2.51 0-4.68-1.42-5.76-3.5H15v-2H8.58c-.05-.33-.08-.66-.08-1s.03-.67.08-1H15V9H9.24C10.32 6.92 12.5 5.5 15 5.5c1.61 0 3.09.59 4.23 1.57L21 5.3C19.41 3.87 17.3 3 15 3c-3.92 0-7.24 2.51-8.48 6H3v2h3.06c-.04.33-.06.66-.06 1s.02.67.06 1H3v2h3.52c1.24 3.49 4.56 6 8.48 6 2.31 0 4.41-.87 6-2.3l-1.78-1.77c-1.13.98-2.6 1.57-4.22 1.57z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="19.4912109375" y="74.75">money</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_9484" transform="translate(811 386)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" height="48.75" viewBox="0 0 24 26" width="48.75" x="12.5" y="12.5"><path d="M0 0h24v24H0z" fill="none"/><path d="M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="18.4892578125" y="74.75">identity</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_1670" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M735,527L811,458"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="784.9606428951521" y="500.4606428951521">validates</tspan></text><path d="
+      M 755 508.2283810537389
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="751" y="512.2283810537389">3</tspan></text></g><path d="M735,527L811,458" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="730" y="453" rx="4" width="86" height="79" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_4558" style="display: block;"><g class="djs-visual"><path style="stroke: black; stroke-width: 1.5; stroke-linejoin: round; stroke-dasharray: 5, 5;" d="M852,471L856,518"/></g><path d="M852,471L856,518" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="847" y="466" rx="4" width="14" height="57" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_7631" transform="translate(807 518)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="99.99656781987919" height="57.111477210324" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,57.111477210324 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">not for </tspan><tspan x="5" y="30.199999999999996">murderers, con </tspan><tspan x="5" y="44.599999999999994">artists, or LLMs</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="99.99656781987919" height="57.111477210324" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="109.99656781987919" height="67.111477210324" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_3504" transform="translate(1012 633)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="75" height="75" viewBox="0 0 24 26"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.5 13c-1.2 0-3.07.34-4.5 1-1.43-.67-3.3-1-4.5-1C5.33 13 1 14.08 1 16.25V19h22v-2.75c0-2.17-4.33-3.25-6.5-3.25zm-4 4.5h-10v-1.25c0-.54 2.56-1.75 5-1.75s5 1.21 5 1.75v1.25zm9 0H14v-1.25c0-.46-.2-.86-.52-1.22.88-.3 1.96-.53 3.02-.53 2.44 0 5 1.21 5 1.75v1.25zM7.5 12c1.93 0 3.5-1.57 3.5-3.5S9.43 5 7.5 5 4 6.57 4 8.5 5.57 12 7.5 12zm0-5.5c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm9 5.5c1.93 0 3.5-1.57 3.5-3.5S18.43 5 16.5 5 13 6.57 13 8.5s1.57 3.5 3.5 3.5zm0-5.5c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="7.154296875" y="75">risk agency</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_5253" transform="translate(837 633)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="12.826171875" y="74.75">customer</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_1730" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M742,569L837,642"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="799.7565723123053" y="599.6710482082035">background checks</tspan></text><path d="
+      M 762 581.5131446246105
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="758" y="585.5131446246105">4</tspan></text></g><path d="M742,569L837,642" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="737" y="564" rx="4" width="105" height="83" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_1407" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M916,670L1012,667"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="982.7016815652923" y="683.2016815652923">with</tspan></text></g><path d="M916,670L1012,667" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="911" y="662" rx="4" width="106" height="13" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_0745" transform="translate(-130 425)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="16.4853515625" y="74.75">account</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_0917" transform="translate(-130 549)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="16.4853515625" y="74.75">account</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_8607" transform="translate(176 535)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="12.826171875" y="75">customer</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_3896" transform="translate(398 425)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="16.4853515625" y="74.75">account</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_6084" transform="translate(398 570)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M20 4H4c-1.11 0-1.99.89-1.99 2L2 18c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V6c0-1.11-.89-2-2-2zm0 14H4v-6h16v6zm0-10H4V6h16v2z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="25.828125" y="74.75">card</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_2478" transform="translate(637 330)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="12.15234375" y="74.75">license of </tspan><tspan x="9.48046875" y="88.75">operations</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_2644" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M705,509L684,410"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="712.8346593086553" y="458.16931861731075">applies for</tspan></text><path d="
+      M 699.677274469243 489
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="695.677274469243" y="493">1</tspan></text></g><path d="M705,509L684,410" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="679" y="405" rx="4" width="31" height="109" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_7127" transform="translate(779 278)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="75" height="75" viewBox="0 0 24 26"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.5 13c-1.2 0-3.07.34-4.5 1-1.43-.67-3.3-1-4.5-1C5.33 13 1 14.08 1 16.25V19h22v-2.75c0-2.17-4.33-3.25-6.5-3.25zm-4 4.5h-10v-1.25c0-.54 2.56-1.75 5-1.75s5 1.21 5 1.75v1.25zm9 0H14v-1.25c0-.46-.2-.86-.52-1.22.88-.3 1.96-.53 3.02-.53 2.44 0 5 1.21 5 1.75v1.25zM7.5 12c1.93 0 3.5-1.57 3.5-3.5S9.43 5 7.5 5 4 6.57 4 8.5 5.57 12 7.5 12zm0-5.5c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm9 5.5c1.93 0 3.5-1.57 3.5-3.5S18.43 5 16.5 5 13 6.57 13 8.5s1.57 3.5 3.5 3.5zm0-5.5c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="13.8193359375" y="75">regulator</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_9761" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M706,357L779,330"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="758.1170717046285" y="355.11707170462853">with</tspan></text></g><path d="M706,357L779,330" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="701" y="325" rx="4" width="83" height="37" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_6410" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M185,620L120,724"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="169.72192315510648" y="667.6684610693611">transfers</tspan></text><path d="
+      M 170.7753852408518 640
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="166.7753852408518" y="644">8</tspan></text></g><path d="M185,620L120,724" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="115" y="615" rx="4" width="75" height="114" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_7790" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M66,750L27,750"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="30.3" y="765">from</tspan></text></g><path d="M66,750L27,750" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="22" y="745" rx="4" width="49" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_2930" transform="translate(66 712)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15 18.5c-2.51 0-4.68-1.42-5.76-3.5H15v-2H8.58c-.05-.33-.08-.66-.08-1s.03-.67.08-1H15V9H9.24C10.32 6.92 12.5 5.5 15 5.5c1.61 0 3.09.59 4.23 1.57L21 5.3C19.41 3.87 17.3 3 15 3c-3.92 0-7.24 2.51-8.48 6H3v2h3.06c-.04.33-.06.66-.06 1s.02.67.06 1H3v2h3.52c1.24 3.49 4.56 6 8.48 6 2.31 0 4.41-.87 6-2.3l-1.78-1.77c-1.13.98-2.6 1.57-4.22 1.57z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="37.5" y="74.75"/></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_9495" transform="translate(-54 712)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="16.4853515625" y="74.75">account</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_7738" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5px; stroke-linejoin: round; marker-end: url('#activity-black-black-97xwkzyro36lg7fo9ywapsad6');" d="M-54,750L-164,750"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="-125.19999999999999" y="765">into</tspan></text></g><path d="M-54,750L-164,750" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-169" y="745" rx="4" width="120" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="shape_7479" transform="translate(-245 712)" style="display: block;"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" #000000" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="1.142578125" y="74.75">other account</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape selected hover" data-element-id="shape_0405" transform="translate(-257 638)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="99.99202297383536" height="42.756860242501595" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,42.756860242501595 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">could be in </tspan><tspan x="5" y="30.199999999999996">another bank</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="99.99202297383536" height="42.756860242501595" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="109.99202297383536" height="52.756860242501595" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="connection_9938" style="display: block;"><g class="djs-visual"><path style="stroke: black; stroke-width: 1.5px; stroke-linejoin: round; stroke-dasharray: 5, 5;" d="M-207,712L-207,681"/></g><path d="M-207,712L-207,681" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-212" y="676" rx="4" width="10" height="41" class="djs-outline" style="fill: none;"/></g></g></svg>
+<!-- <DST>
+{
+  "domain": {
+    "name": "default",
+    "actors": {
+      "Person": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z\"/><path d=\"M0 0h24v24H0z\" fill=\"none\"/></svg>",
+      "Group": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"48\" viewBox=\"0 0 24 26\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M16.5 13c-1.2 0-3.07.34-4.5 1-1.43-.67-3.3-1-4.5-1C5.33 13 1 14.08 1 16.25V19h22v-2.75c0-2.17-4.33-3.25-6.5-3.25zm-4 4.5h-10v-1.25c0-.54 2.56-1.75 5-1.75s5 1.21 5 1.75v1.25zm9 0H14v-1.25c0-.46-.2-.86-.52-1.22.88-.3 1.96-.53 3.02-.53 2.44 0 5 1.21 5 1.75v1.25zM7.5 12c1.93 0 3.5-1.57 3.5-3.5S9.43 5 7.5 5 4 6.57 4 8.5 5.57 12 7.5 12zm0-5.5c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm9 5.5c1.93 0 3.5-1.57 3.5-3.5S18.43 5 16.5 5 13 6.57 13 8.5s1.57 3.5 3.5 3.5zm0-5.5c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2z\"/></svg>",
+      "System": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z\"/></svg>"
+    },
+    "workObjects": {
+      "Credit-Card": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 26\"><path fill=\"none\" d=\"M0 0h24v24H0V0z\"/><path d=\"M20 4H4c-1.11 0-1.99.89-1.99 2L2 18c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V6c0-1.11-.89-2-2-2zm0 14H4v-6h16v6zm0-10H4V6h16v2z\"/></svg>",
+      "Euro": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 26\"><path fill=\"none\" d=\"M0 0h24v24H0V0z\"/><path d=\"M15 18.5c-2.51 0-4.68-1.42-5.76-3.5H15v-2H8.58c-.05-.33-.08-.66-.08-1s.03-.67.08-1H15V9H9.24C10.32 6.92 12.5 5.5 15 5.5c1.61 0 3.09.59 4.23 1.57L21 5.3C19.41 3.87 17.3 3 15 3c-3.92 0-7.24 2.51-8.48 6H3v2h3.06c-.04.33-.06.66-.06 1s.02.67.06 1H3v2h3.52c1.24 3.49 4.56 6 8.48 6 2.31 0 4.41-.87 6-2.3l-1.78-1.77c-1.13.98-2.6 1.57-4.22 1.57z\"/></svg>",
+      "Document": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 26\"><path fill=\"none\" d=\"M0 0h24v24H0V0z\"/><path d=\"M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z\"/></svg>",
+      "Folder": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" d=\"M0,0h24v24H0V0z\"/><path d=\"M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z\"/></svg>",
+      "Call": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" d=\"M0,0h24v24H0V0z\"/><path d=\"M6.54,5C6.6,5.89,6.75,6.76,6.99,7.59l-1.2,1.2C5.38,7.59,5.12,6.32,5.03,5H6.54 M16.4,17.02c0.85,0.24,1.72,0.39,2.6,0.45 v1.49c-1.32-0.09-2.59-0.35-3.8-0.75L16.4,17.02 M7.5,3H4C3.45,3,3,3.45,3,4c0,9.39,7.61,17,17,17c0.55,0,1-0.45,1-1v-3.49\tc0-0.55-0.45-1-1-1c-1.24,0-2.45-0.2-3.57-0.57c-0.1-0.04-0.21-0.05-0.31-0.05c-0.26,0-0.51,0.1-0.71,0.29l-2.2,2.2 c-2.83-1.45-5.15-3.76-6.59-6.59l2.2-2.2C9.1,8.31,9.18,7.92,9.07,7.57C8.7,6.45,8.5,5.25,8.5,4C8.5,3.45,8.05,3,7.5,3L7.5,3z\"/></svg>",
+      "Email": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" d=\"M0,0h24v24H0V0z\"/><path fill-opacity=\"0.9\" d=\"M12,1.95c-5.52,0-10,4.48-10,10s4.48,10,10,10h5v-2h-5c-4.34,0-8-3.66-8-8s3.66-8,8-8s8,3.66,8,8v1.43 c0,0.79-0.71,1.57-1.5,1.57S17,14.17,17,13.38v-1.43c0-2.76-2.24-5-5-5s-5,2.24-5,5s2.24,5,5,5c1.38,0,2.64-0.56,3.54-1.47 c0.65,0.89,1.77,1.47,2.96,1.47c1.97,0,3.5-1.6,3.5-3.57v-1.43C22,6.43,17.52,1.95,12,1.95z M12,14.95c-1.66,0-3-1.34-3-3 s1.34-3,3-3s3,1.34,3,3S13.66,14.95,12,14.95z\"/></svg>",
+      "Conversation": "<svg height=\"48\" viewBox=\"0 0 24 26\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0 0h24v24H0V0z\" fill=\"none\"/><path d=\"M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z\"/></svg>",
+      "Info": "<svg height=\"48\" viewBox=\"0 0 24 26\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z\"/></svg>"
+    }
+  },
+  "dst": [
+    {
+      "type": "domainStory:activity",
+      "name": "with",
+      "id": "connection_1146",
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": 436,
+            "y": 463
+          },
+          "x": 476,
+          "y": 475
+        },
+        {
+          "original": {
+            "x": 713,
+            "y": 547
+          },
+          "x": 675,
+          "y": 535
+        }
+      ],
+      "source": "shape_3896",
+      "target": "shape_5151",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "with",
+      "id": "connection_1407",
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": 875,
+            "y": 671
+          },
+          "x": 916,
+          "y": 670
+        },
+        {
+          "original": {
+            "x": 1064,
+            "y": 666
+          },
+          "x": 1012,
+          "y": 667
+        }
+      ],
+      "source": "shape_5253",
+      "target": "shape_3504",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "validates",
+      "id": "connection_1670",
+      "pickedColor": "black",
+      "number": 3,
+      "waypoints": [
+        {
+          "original": {
+            "x": 713,
+            "y": 547
+          },
+          "x": 735,
+          "y": 527
+        },
+        {
+          "original": {
+            "x": 849,
+            "y": 424
+          },
+          "x": 811,
+          "y": 458
+        }
+      ],
+      "source": "shape_5151",
+      "target": "shape_9484",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "background checks",
+      "id": "connection_1730",
+      "pickedColor": "black",
+      "number": 4,
+      "waypoints": [
+        {
+          "original": {
+            "x": 713,
+            "y": 547
+          },
+          "x": 742,
+          "y": 569
+        },
+        {
+          "original": {
+            "x": 875,
+            "y": 671
+          },
+          "x": 837,
+          "y": 642
+        }
+      ],
+      "source": "shape_5151",
+      "target": "shape_5253",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "applies for",
+      "id": "connection_2644",
+      "pickedColor": "black",
+      "number": 1,
+      "waypoints": [
+        {
+          "original": {
+            "x": 713,
+            "y": 547
+          },
+          "x": 705,
+          "y": 509
+        },
+        {
+          "original": {
+            "x": 675,
+            "y": 368
+          },
+          "x": 684,
+          "y": 410
+        }
+      ],
+      "source": "shape_5151",
+      "target": "shape_2478",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "",
+      "id": "connection_3562",
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": 214,
+            "y": 805
+          },
+          "x": 257,
+          "y": 805
+        },
+        {
+          "x": 797,
+          "y": 805
+        },
+        {
+          "original": {
+            "x": 713,
+            "y": 547
+          },
+          "x": 726,
+          "y": 586
+        }
+      ],
+      "source": "shape_5571",
+      "target": "shape_5151"
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "request",
+      "id": "connection_4556",
+      "pickedColor": "black",
+      "number": 9,
+      "waypoints": [
+        {
+          "original": {
+            "x": 214,
+            "y": 573
+          },
+          "x": 214,
+          "y": 620
+        },
+        {
+          "original": {
+            "x": 214,
+            "y": 805
+          },
+          "x": 214,
+          "y": 767
+        }
+      ],
+      "source": "shape_8607",
+      "target": "shape_5571",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:connection",
+      "name": "",
+      "id": "connection_4558",
+      "waypoints": [
+        {
+          "original": {
+            "x": 849,
+            "y": 424
+          },
+          "x": 852,
+          "y": 471
+        },
+        {
+          "original": {
+            "x": 857,
+            "y": 533
+          },
+          "x": 856,
+          "y": 518
+        }
+      ],
+      "source": "shape_9484",
+      "target": "shape_7631"
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "withdraws",
+      "id": "connection_6251",
+      "pickedColor": "black",
+      "number": 7,
+      "waypoints": [
+        {
+          "original": {
+            "x": 214,
+            "y": 573
+          },
+          "x": 176,
+          "y": 576
+        },
+        {
+          "original": {
+            "x": 41,
+            "y": 587
+          },
+          "x": 80,
+          "y": 584
+        }
+      ],
+      "source": "shape_8607",
+      "target": "shape_3207",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "transfers",
+      "id": "connection_6410",
+      "pickedColor": "black",
+      "number": 8,
+      "waypoints": [
+        {
+          "original": {
+            "x": 214,
+            "y": 573
+          },
+          "x": 185,
+          "y": 620
+        },
+        {
+          "original": {
+            "x": 104,
+            "y": 750
+          },
+          "x": 120,
+          "y": 724
+        }
+      ],
+      "source": "shape_8607",
+      "target": "shape_2930",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "to",
+      "id": "connection_6926",
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": 436,
+            "y": 608
+          },
+          "x": 398,
+          "y": 602
+        },
+        {
+          "original": {
+            "x": 225,
+            "y": 573
+          },
+          "x": 260,
+          "y": 579
+        }
+      ],
+      "source": "shape_6084",
+      "target": "shape_8607",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "from",
+      "id": "connection_7220",
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": 41,
+            "y": 587
+          },
+          "x": 3,
+          "y": 587
+        },
+        {
+          "original": {
+            "x": -92,
+            "y": 587
+          },
+          "x": -49,
+          "y": 587
+        }
+      ],
+      "source": "shape_3207",
+      "target": "shape_0917",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "opens",
+      "id": "connection_7457",
+      "pickedColor": "black",
+      "number": 2,
+      "waypoints": [
+        {
+          "original": {
+            "x": 214,
+            "y": 573
+          },
+          "x": 242,
+          "y": 559
+        },
+        {
+          "original": {
+            "x": 436,
+            "y": 463
+          },
+          "x": 398,
+          "y": 482
+        }
+      ],
+      "source": "shape_8607",
+      "target": "shape_3896",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "deposits",
+      "id": "connection_7642",
+      "pickedColor": "black",
+      "number": 6,
+      "waypoints": [
+        {
+          "original": {
+            "x": 214,
+            "y": 573
+          },
+          "x": 176,
+          "y": 547
+        },
+        {
+          "original": {
+            "x": 51,
+            "y": 463
+          },
+          "x": 82,
+          "y": 484
+        }
+      ],
+      "source": "shape_8607",
+      "target": "shape_4976",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "into",
+      "id": "connection_7738",
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": -16,
+            "y": 750
+          },
+          "x": -54,
+          "y": 750
+        },
+        {
+          "original": {
+            "x": -207,
+            "y": 750
+          },
+          "x": -164,
+          "y": 750
+        }
+      ],
+      "source": "shape_9495",
+      "target": "shape_7479",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "from",
+      "id": "connection_7790",
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": 104,
+            "y": 750
+          },
+          "x": 66,
+          "y": 750
+        },
+        {
+          "original": {
+            "x": -16,
+            "y": 750
+          },
+          "x": 27,
+          "y": 750
+        }
+      ],
+      "source": "shape_2930",
+      "target": "shape_9495",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "issues",
+      "id": "connection_7894",
+      "pickedColor": "black",
+      "number": 5,
+      "waypoints": [
+        {
+          "original": {
+            "x": 713,
+            "y": 566
+          },
+          "x": 675,
+          "y": 572
+        },
+        {
+          "original": {
+            "x": 436,
+            "y": 608
+          },
+          "x": 473,
+          "y": 602
+        }
+      ],
+      "source": "shape_5151",
+      "target": "shape_6084",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "into",
+      "id": "connection_9379",
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": 51,
+            "y": 463
+          },
+          "x": 13,
+          "y": 463
+        },
+        {
+          "original": {
+            "x": -92,
+            "y": 463
+          },
+          "x": -49,
+          "y": 463
+        }
+      ],
+      "source": "shape_4976",
+      "target": "shape_0745",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "with",
+      "id": "connection_9761",
+      "pickedColor": "black",
+      "number": null,
+      "waypoints": [
+        {
+          "original": {
+            "x": 675,
+            "y": 368
+          },
+          "x": 706,
+          "y": 357
+        },
+        {
+          "original": {
+            "x": 817,
+            "y": 316
+          },
+          "x": 779,
+          "y": 330
+        }
+      ],
+      "source": "shape_2478",
+      "target": "shape_7127",
+      "multipleNumberAllowed": false
+    },
+    {
+      "type": "domainStory:connection",
+      "name": "",
+      "id": "connection_9938",
+      "waypoints": [
+        {
+          "original": {
+            "x": -207,
+            "y": 750
+          },
+          "x": -207,
+          "y": 712
+        },
+        {
+          "original": {
+            "x": -207,
+            "y": 653
+          },
+          "x": -207,
+          "y": 681
+        }
+      ],
+      "source": "shape_7479",
+      "target": "shape_0405"
+    },
+    {
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "id": "shape_0405",
+      "x": -257,
+      "y": 638,
+      "text": "could be in another bank",
+      "number": 42.756860242501595,
+      "height": 42.756860242501595,
+      "width": 99.99202297383536
+    },
+    {
+      "type": "domainStory:workObjectDocument",
+      "name": "account",
+      "id": "shape_0745",
+      "x": -130,
+      "y": 425
+    },
+    {
+      "type": "domainStory:workObjectDocument",
+      "name": "account",
+      "id": "shape_0917",
+      "x": -130,
+      "y": 549
+    },
+    {
+      "type": "domainStory:workObjectDocument",
+      "name": "license of operations",
+      "id": "shape_2478",
+      "x": 637,
+      "y": 330
+    },
+    {
+      "type": "domainStory:workObjectEuro",
+      "name": "",
+      "id": "shape_2930",
+      "x": 66,
+      "y": 712
+    },
+    {
+      "type": "domainStory:workObjectEuro",
+      "name": "money",
+      "id": "shape_3207",
+      "x": 3,
+      "y": 549
+    },
+    {
+      "type": "domainStory:actorGroup",
+      "name": "risk agency",
+      "id": "shape_3504",
+      "x": 1012,
+      "y": 633
+    },
+    {
+      "type": "domainStory:workObjectDocument",
+      "name": "account",
+      "id": "shape_3896",
+      "x": 398,
+      "y": 425
+    },
+    {
+      "type": "domainStory:workObjectEuro",
+      "name": "money",
+      "id": "shape_4976",
+      "x": 13,
+      "y": 425
+    },
+    {
+      "type": "domainStory:actorPerson",
+      "name": "bank",
+      "id": "shape_5151",
+      "x": 675,
+      "y": 509
+    },
+    {
+      "type": "domainStory:workObjectDocument",
+      "name": "customer",
+      "id": "shape_5253",
+      "x": 837,
+      "y": 633
+    },
+    {
+      "type": "domainStory:workObjectDocument",
+      "name": "loan",
+      "id": "shape_5571",
+      "x": 176,
+      "y": 767
+    },
+    {
+      "type": "domainStory:workObjectCredit-Card",
+      "name": "card",
+      "id": "shape_6084",
+      "x": 398,
+      "y": 570
+    },
+    {
+      "type": "domainStory:actorGroup",
+      "name": "regulator",
+      "id": "shape_7127",
+      "x": 779,
+      "y": 278
+    },
+    {
+      "type": "domainStory:workObjectDocument",
+      "name": "other account",
+      "id": "shape_7479",
+      "x": -245,
+      "y": 712
+    },
+    {
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "id": "shape_7631",
+      "x": 807,
+      "y": 518,
+      "text": "not for murderers, con artists, or LLMs",
+      "number": 57.111477210324,
+      "height": 57.111477210324,
+      "width": 99.99656781987919
+    },
+    {
+      "type": "domainStory:actorPerson",
+      "name": "customer",
+      "id": "shape_8607",
+      "x": 176,
+      "y": 535
+    },
+    {
+      "type": "domainStory:workObjectInfo",
+      "name": "identity",
+      "id": "shape_9484",
+      "x": 811,
+      "y": 386
+    },
+    {
+      "type": "domainStory:workObjectDocument",
+      "name": "account",
+      "id": "shape_9495",
+      "x": -54,
+      "y": 712
+    },
+    {
+      "info": ""
+    },
+    {
+      "version": "3.2.1"
+    }
+  ]
+}
+ </DST> -->
